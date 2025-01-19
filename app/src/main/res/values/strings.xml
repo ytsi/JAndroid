@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JAndroid</string>
+    <string name="first_title">Set your daily goal</string>
+    <string name="first_btn">I’m committed</string>
+    <string name="second_btn">I’m in</string>
+    <string name="second_title">Fair trial\ndisclaimer</string>
+    <string name="second_title_ask">
+                We only ask you to spend at least\n5 minutes a day using Hapday.
+            </string>
+    <string name="second_title_ask_1">If you don’t, maybe this isn’t the best time for you to try Hapday so you should cancel the program before your trial ends.</string>
+    <string name="second_title_ask_2">We’re not here to waste your time or your money, because let’s face it, it would be a waste of our time and money too.</string>
+
+</resources>

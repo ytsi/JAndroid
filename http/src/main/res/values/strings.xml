@@ -1,0 +1,4 @@
+<resources>
+    <string name="common_error_server">server error</string>
+    <string name="common_error_request">request error</string>
+</resources>
